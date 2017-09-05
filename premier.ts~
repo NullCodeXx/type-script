@@ -1,0 +1,5 @@
+//Sans typage
+var maVariable = 'bloup';
+// Avec le Typage
+let varNumber:number = 100;
+

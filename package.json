@@ -1,0 +1,24 @@
+{
+  "name": "type-script",
+  "version": "0.0.1",
+  "description": "api express with typescript",
+  "main": "premier.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "typescript": "^2.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djaafarcode/type-script.git"
+  },
+  "author": "D. BOUMAZA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djaafarcode/type-script/issues"
+  },
+  "homepage": "https://github.com/djaafarcode/type-script#readme"
+}
